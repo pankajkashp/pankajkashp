@@ -1,27 +1,99 @@
-# 💫 About Me:
-Hi 👋, I'm Pankaj<br>CSE (AI) student focused on full-stack development, problem solving, and building practical tech solutions
+# Hi there! 👋 I'm Pankaj Kashyap
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="400"/>
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pankajkashp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pankajkashap) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pankajkashap26@gmail.com) 
+<div align="center">
+  <h3>Full-Stack Developer | Passionate about creating innovative web solutions</h3>
+</div>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pankajkashp&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pankajkashp&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajkashp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I+love+coding+and+building+cool+stuff.;Always+learning+new+technologies.;Let's+connect+and+collaborate!" alt="Typing Animation"/>
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pankajkashp&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🚀 About Me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+- 🔭 I’m currently working on exciting web projects
+- 🌱 I’m learning advanced React patterns and backend technologies
+- 👯 I’m looking to collaborate on open-source projects
+- 💬 Ask me about JavaScript, React, TypeScript, and web development
+- 📫 How to reach me: [Your Email or LinkedIn]
+- ⚡ Fun fact: I love exploring new tech and building kirana store apps!
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pankajkashp&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🛠️ Skills & Technologies
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,nodejs,express,mongodb,git,github,vscode" alt="Skills Icons"/>
+</div>
+
+### Frontend
+- React, TypeScript, JavaScript
+- HTML5, CSS3, Tailwind CSS
+- Vite, Next.js
+
+### Backend
+- Node.js, Express
+- MongoDB
+
+### Tools & Others
+- Git, GitHub
+- VS Code
+- ESLint, PostCSS
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pankajkashp&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankajkashp&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajkashp&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/pankajkashp/Kirana-Store">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pankajkashp&repo=Kirana-Store&theme=tokyonight" alt="Kirana Store"/>
+  </a>
+</div>
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pankajkashp&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+</div>
+
+## 🏆 Achievements
+
+- 🌟 Completed multiple web development projects
+- 📚 Constantly learning and improving skills
+- 🤝 Open to collaborations and contributions
+
+## 📞 Connect with Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+## 🎨 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pankajkashp&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <p>⭐ From <a href="https://github.com/pankajkashp">Pankaj Kashyap</a></p>
+  <img src="https://komarev.com/ghpvc/?username=pankajkashp&color=blueviolet&style=flat-square" alt="Profile Views"/>
+</div>
