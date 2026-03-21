@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Pankaj Kashyap
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKz9bX9v9KzKQZq/giphy.gif" alt="Attractive Coding Animation" width="400"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Attractive Coding Animation" width="400"/>
 </div>
 
 <div align="center">
