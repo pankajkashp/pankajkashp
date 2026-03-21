@@ -112,22 +112,6 @@
   <img src="https://leetcode-stats-ninei07d4q.vercel.app/api?username=pankajkashp26&show_unrated=true&theme=dark" alt="LeetCode Solved Stats"/>
 </div>
 
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/pankajkashp/Kirana-Store">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pankajkashp&repo=Kirana-Store&theme=tokyonight" alt="Kirana Store"/>
-  </a>
-</div>
-
-
-
-## 🏆 Achievements
-
-- 🌟 Completed multiple web development projects
-- 📚 Constantly learning and improving skills
-- 🤝 Open to collaborations and contributions
-
 ## 📞 Connect with Me
 
 <div align="center">
@@ -144,6 +128,24 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </div>
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/pankajkashp/Kirana-Store">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pankajkashp&repo=Kirana-Store&theme=tokyonight" alt="Kirana Store"/>
+  </a>
+</div>
+
+
+
+## 🏆 Achievements
+
+- 🌟 Completed multiple web development projects
+- 📚 Constantly learning and improving skills
+- 🤝 Open to collaborations and contributions
+
+
 
 ## 🎨 Random Dev Quote
 
