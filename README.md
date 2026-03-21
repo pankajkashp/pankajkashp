@@ -24,16 +24,34 @@
 ## 🛠️ Skills & Technologies
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=React+%E2%9D%A4%EF%B8%8F+TypeScript+%E2%9D%A4%EF%B8%8F+Node.js+%E2%9D%A4%EF%B8%8F+MongoDB+%E2%9D%A4%EF%B8%8F+Tailwind+%E2%9D%A4%EF%B8%8F+Vite" alt="Typing Technology Skills"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=720&lines=My+Tech+Stack:+React,+TypeScript,+Node.js,+MongoDB,+Tailwind,+Vite" alt="Typing Technology Skills"/>
 </div>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/react/react-original-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/vite/vite-original.svg" width="40" />
+<div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:14px;">
+  <div style="background:#0f172a;border:2px solid #1d4ed8;border-radius:12px;padding:12px;filter:drop-shadow(0 0 8px #6366f1);width:120px;text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/react/react-original.svg" width="40" alt="React"/>
+    <p>React</p>
+  </div>
+  <div style="background:#0f172a;border:2px solid #2563eb;border-radius:12px;padding:12px;filter:drop-shadow(0 0 8px #22d3ee);width:120px;text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
+    <p>TypeScript</p>
+  </div>
+  <div style="background:#0f172a;border:2px solid #16a34a;border-radius:12px;padding:12px;filter:drop-shadow(0 0 8px #84cc16);width:120px;text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+    <p>Node.js</p>
+  </div>
+  <div style="background:#0f172a;border:2px solid #059669;border-radius:12px;padding:12px;filter:drop-shadow(0 0 8px #34d399);width:120px;text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
+    <p>MongoDB</p>
+  </div>
+  <div style="background:#0f172a;border:2px solid #06b6d4;border-radius:12px;padding:12px;filter:drop-shadow(0 0 8px #7dd3fc);width:120px;text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="Tailwind"/>
+    <p>Tailwind CSS</p>
+  </div>
+  <div style="background:#0f172a;border:2px solid #8b5cf6;border-radius:12px;padding:12px;filter:drop-shadow(0 0 8px #c4b5fd);width:120px;text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/vite/vite-original.svg" width="40" alt="Vite"/>
+    <p>Vite</p>
+  </div>
 </div>
 
 ### Frontend
