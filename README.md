@@ -121,13 +121,17 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
+## 🧠 LeetCode Progress
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/pankajkashp?theme=dark&font=Source+Code+Pro" alt="LeetCode Stats"/>
+  <br/>
+  <img src="https://leetcode-stats-ninei07d4q.vercel.app/api?username=pankajkashp&show_unrated=true&theme=dark" alt="LeetCode Solved Stats"/>
+</div>
+
 ---
 
 <div align="center">
   <p>⭐ From <a href="https://github.com/pankajkashp">Pankaj Kashyap</a></p>
   <img src="https://komarev.com/ghpvc/?username=pankajkashp&color=blueviolet&style=flat-square" alt="Profile Views"/>
-<<<<<<< HEAD
 </div>
-=======
-</div>
->>>>>>> origin/main
