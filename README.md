@@ -78,6 +78,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajkashp&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
+## 🧠 LeetCode Progress
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/pankajkashp26?theme=dark&font=Source+Code+Pro" alt="LeetCode Stats"/>
+  <br/>
+  <img src="https://leetcode-stats-ninei07d4q.vercel.app/api?username=pankajkashp26&show_unrated=true&theme=dark" alt="LeetCode Solved Stats"/>
+</div>
+
 ## 🌟 Featured Projects
 
 <div align="center">
@@ -119,14 +127,6 @@
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
-## 🧠 LeetCode Progress
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/pankajkashp26?theme=dark&font=Source+Code+Pro" alt="LeetCode Stats"/>
-  <br/>
-  <img src="https://leetcode-stats-ninei07d4q.vercel.app/api?username=pankajkashp26&show_unrated=true&theme=dark" alt="LeetCode Solved Stats"/>
 </div>
 
 ---
