@@ -110,7 +110,7 @@
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://leetcode.com/pankajkashp/">
+  <a href="https://leetcode.com/u/pankajkashp26/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </div>
@@ -124,9 +124,9 @@
 ## 🧠 LeetCode Progress
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/pankajkashp?theme=dark&font=Source+Code+Pro" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/pankajkashp26?theme=dark&font=Source+Code+Pro" alt="LeetCode Stats"/>
   <br/>
-  <img src="https://leetcode-stats-ninei07d4q.vercel.app/api?username=pankajkashp&show_unrated=true&theme=dark" alt="LeetCode Solved Stats"/>
+  <img src="https://leetcode-stats-ninei07d4q.vercel.app/api?username=pankajkashp26&show_unrated=true&theme=dark" alt="LeetCode Solved Stats"/>
 </div>
 
 ---
