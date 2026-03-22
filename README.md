@@ -27,8 +27,8 @@
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C" width="65" height="65" />
-        <br>C
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C" width="65" height="65" />
+        <br>C++
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
@@ -47,7 +47,7 @@
         <br>React
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/flutter-icon.svg" alt="Flutter" width="65" height="65" />
+        <img src="https://avatars.githubusercontent.com/u/14101776?s=280&v=4" alt="Flutter" width="65" height="65" />
         <br>Flutter
       </td>
     </tr>
