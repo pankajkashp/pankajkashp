@@ -124,7 +124,6 @@
 ### 🛒 Kirana Store
 A modern web application for managing a kirana (grocery) store, built with React, TypeScript, and Vite. Features responsive design, fast development with Vite, and a clean UI with Tailwind CSS.
 
-## 📈 Activity Graph
 ## 📞 Connect with Me
 
 <div align="center">
@@ -142,13 +141,7 @@ A modern web application for managing a kirana (grocery) store, built with React
   </a>
 </div>
 
-## 🌟 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/pankajkashp/Kirana-Store">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pankajkashp&repo=Kirana-Store&theme=tokyonight" alt="Kirana Store"/>
-  </a>
-</div>
 
 
 
