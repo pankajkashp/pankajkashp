@@ -120,6 +120,9 @@
   </a>
 </div>
 
+### 🛒 Kirana Store
+A modern web application for managing a kirana (grocery) store, built with React, TypeScript, and Vite. Features responsive design, fast development with Vite, and a clean UI with Tailwind CSS.
+
 ## 📈 Activity Graph
 
 <div align="center">
