@@ -112,6 +112,7 @@
   <img src="https://leetcode-stats-ninei07d4q.vercel.app/api?username=pankajkashp26&show_unrated=true&theme=dark" alt="LeetCode Solved Stats"/>
 </div>
 
+<<<<<<< HEAD
 ## 🌟 Featured Projects
 
 <div align="center">
@@ -124,17 +125,6 @@
 A modern web application for managing a kirana (grocery) store, built with React, TypeScript, and Vite. Features responsive design, fast development with Vite, and a clean UI with Tailwind CSS.
 
 ## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pankajkashp&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
-</div>
-
-## 🏆 Achievements
-
-- 🌟 Completed multiple web development projects
-- 📚 Constantly learning and improving skills
-- 🤝 Open to collaborations and contributions
-
 ## 📞 Connect with Me
 
 <div align="center">
@@ -151,6 +141,24 @@ A modern web application for managing a kirana (grocery) store, built with React
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </div>
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/pankajkashp/Kirana-Store">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pankajkashp&repo=Kirana-Store&theme=tokyonight" alt="Kirana Store"/>
+  </a>
+</div>
+
+
+
+## 🏆 Achievements
+
+- 🌟 Completed multiple web development projects
+- 📚 Constantly learning and improving skills
+- 🤝 Open to collaborations and contributions
+
+
 
 ## 🎨 Random Dev Quote
 
