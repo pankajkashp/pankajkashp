@@ -18,7 +18,7 @@
 - 🌱 I’m learning advanced React patterns and backend technologies
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about JavaScript, React, TypeScript, and web development
-- 📫 How to reach me: [Your Email or LinkedIn]
+- 📫 How to reach me: pankajkashap26@gmail.com
 - ⚡ Fun fact: I love exploring new tech and building kirana store apps!
 
 ## � Tech Stack & Tools
