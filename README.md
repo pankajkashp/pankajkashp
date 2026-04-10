@@ -19,7 +19,7 @@
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about JavaScript, React, TypeScript, and web development
 - 📫 How to reach me: pankajkashap26@gmail.com
-- ⚡ Fun fact: I love exploring new tech and building kirana store apps!
+- ⚡ Fun fact: I love exploring new tech.
 
 ## � Tech Stack & Tools
 
@@ -101,7 +101,6 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankajkashp&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajkashp&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
 ## 🧠 LeetCode Progress
@@ -109,15 +108,13 @@
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/pankajkashp26?theme=dark&font=Source+Code+Pro" alt="LeetCode Stats"/>
   <br/>
-  <img src="https://leetcode-stats-ninei07d4q.vercel.app/api?username=pankajkashp26&show_unrated=true&theme=dark" alt="LeetCode Solved Stats"/>
 </div>
 
-<<<<<<< HEAD
+
 ## 🌟 Featured Projects
 
 <div align="center">
   <a href="https://github.com/pankajkashp/Kirana-Store">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pankajkashp&repo=Kirana-Store&theme=tokyonight" alt="Kirana Store"/>
   </a>
 </div>
 
