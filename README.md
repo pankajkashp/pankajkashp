@@ -127,7 +127,11 @@ A premium, AI-powered code review dashboard that leverages Gemini AI to provide 
 - **Visual Precision**: Perfectly centered orbital loading animations and symmetric layout.
 - **Tech Stack**: Built with React, Gemini AI, and Supabase.
 
-[View Repository](https://github.com/pankajkashp/CodeReview)
+<p align="center">
+  <a href="https://github.com/pankajkashp/CodeReview">
+    <img src="https://img.shields.io/badge/📦%20View%20Repository-ff4d4d?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 
 ## 📞 Connect with Me
