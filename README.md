@@ -114,7 +114,7 @@
 ## 🌟 Featured Project
 
 <div align="center">
-  <a href="https://github.com/pankajkashp/CodeReview">
+  <a href="https://www.codesage.tech/">
     <img src="https://img.shields.io/badge/CodeSage-AI--Powered%20Code%20Review-crimson?style=for-the-badge&logo=ai&logoColor=white" alt="CodeSage"/>
   </a>
 </div>
