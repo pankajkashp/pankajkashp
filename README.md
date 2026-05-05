@@ -111,15 +111,24 @@
 </div>
 
 
-## 🌟 Featured Projects
+## 🌟 Featured Project
 
 <div align="center">
-  <a href="https://github.com/pankajkashp/Kirana-Store">
+  <a href="https://github.com/pankajkashp/CodeReview">
+    <img src="https://img.shields.io/badge/CodeSage-AI--Powered%20Code%20Review-crimson?style=for-the-badge&logo=ai&logoColor=white" alt="CodeSage"/>
   </a>
 </div>
 
-### 🛒 Kirana Store
-A modern web application for managing a kirana (grocery) store, built with React, TypeScript, and Vite. Features responsive design, fast development with Vite, and a clean UI with Tailwind CSS.
+### 🧠 CodeSage (CodeReview)
+A premium, AI-powered code review dashboard that leverages Gemini AI to provide deep insights into code quality, complexity, and security.
+
+- **Neural Core Architecture**: Advanced analysis engine with a high-performance "Crimson & Carbon" design language.
+- **Real-time Intelligence**: Horizontal live intelligence panel for instant feedback and complexity tracking.
+- **Visual Precision**: Perfectly centered orbital loading animations and symmetric layout.
+- **Tech Stack**: Built with React, Gemini AI, and Supabase.
+
+[View Repository](https://github.com/pankajkashp/CodeReview)
+
 
 ## 📞 Connect with Me
 
