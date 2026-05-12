@@ -166,15 +166,8 @@ A premium, AI-powered code review dashboard that leverages Gemini AI to provide 
 
 
 
-## 🎨 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
----
 
 <div align="center">
   <p>⭐ From <a href="https://github.com/pankajkashp">Pankaj Kashyap</a></p>
-  <img src="https://komarev.com/ghpvc/?username=pankajkashp&color=blueviolet&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=pankajkashp&label=PROFILE+VIEWS&color=ff6b00&style=for-the-badge" alt="Profile Views"/>
 </div>
