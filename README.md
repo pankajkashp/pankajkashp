@@ -149,7 +149,7 @@ A premium, AI-powered code review dashboard that leverages Gemini AI to provide 
   <a href="https://leetcode.com/u/pankajkashp26/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
- <a href="https://your-portfolio-link.com">
+ <a href="https://pankajkashyap.me">
   <img src="https://img.shields.io/badge/Pankaj-Kashap-ff6b00?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio"/>
 </a>
 </div>
