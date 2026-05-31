@@ -25,31 +25,38 @@
 
 <div align="center">
 
+<h3>💻 Tech Stack</h3>
+
 <table>
 <tr>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
+<img src="https://skillicons.dev/icons?i=html" width="65" height="65" />
 <br>HTML
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS" />
+<img src="https://skillicons.dev/icons?i=css" width="65" height="65" />
 <br>CSS
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript" />
+<img src="https://skillicons.dev/icons?i=js" width="65" height="65" />
 <br>JavaScript
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" alt="C++" />
+<img src="https://skillicons.dev/icons?i=ts" width="65" height="65" />
+<br>TypeScript
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" />
 <br>C++
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="Python" />
+<img src="https://skillicons.dev/icons?i=python" width="65" height="65" />
 <br>Python
 </td>
 
@@ -58,28 +65,33 @@
 <tr>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
+<img src="https://skillicons.dev/icons?i=react" width="65" height="65" />
 <br>React
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind CSS" />
-<br>Tailwind CSS
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js" />
+<img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" />
 <br>Next.js
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React Native" />
+<img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" />
+<br>Tailwind
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="65" height="65" />
 <br>React Native
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
-<br>Node.js
+<img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" />
+<br>Firebase
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vercel" width="65" height="65" />
+<br>Vercel
 </td>
 
 </tr>
@@ -87,35 +99,40 @@
 <tr>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express.js" />
-<br>Express.js
+<img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" />
+<br>Node.js
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+<img src="https://skillicons.dev/icons?i=express" width="65" height="65" />
+<br>Express
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" />
 <br>MongoDB
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+<img src="https://skillicons.dev/icons?i=git" width="65" height="65" />
 <br>Git
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
+<img src="https://skillicons.dev/icons?i=github" width="65" height="65" />
 <br>GitHub
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
+<img src="https://skillicons.dev/icons?i=docker" width="65" height="65" />
 <br>Docker
 </td>
 
 </tr>
+
 </table>
 
 </div>
-
 ### Frontend
 - React, TypeScript, JavaScript
 - HTML5, CSS3, Tailwind CSS
