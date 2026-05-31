@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Pankaj Kashyap
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I+love+coding+and+building+cool+stuff.;Always+learning+new+technologies.; Hi+there!+👋+I'm+Pankaj+Kashyap" alt="Typing Animation"/>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Attractive Coding Animation" width="400"/>
